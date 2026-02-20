@@ -34,15 +34,6 @@
   <img src="https://streak-stats.demolab.com?user=Justincodess&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Justincodess/Justincodess/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Justincodess/Justincodess/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Justincodess/Justincodess/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <div align="center">
   <img height="200" src="https://media.discordapp.net/attachments/1468278299544522785/1474469314487779490/FOUNDER_4.png?ex=6999f60e&is=6998a48e&hm=6e4a9ee21a42dd8a52ea5c3eeed50d7386b691d89c32e3b0c31fd1ff2cbc2c3c&=&format=webp&quality=lossless"  />

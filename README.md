@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I am Justin</h1>
+<h1 align="center">FOUNDER @ CODED TEENS</h1>
 
 ###
 

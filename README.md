@@ -1,4 +1,4 @@
-<h1 align="center">FOUNDER @ CODED TEENS</h1>
+<h1 align="center">Hey there!</h1>
 
 ###
 
@@ -33,6 +33,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Justincodess&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+<br>
 
 
 <div align="center">
